@@ -20,7 +20,7 @@ Unsupervised clean pulse selection for Standard Event (SEV) construction for cry
 
 * `find_linear_range.py` — Determines the detector linear response range using rise-time and decay-time stability.
 * `pulse_selection_autoencoder.py` — Autoencoder-based pulse quality selection and event classification.
-* `report/report.pdf` — Full project report describing methodology, implementation, and results.
+* `requirements.txt` — All needed packages.
 * `figures/` — Example SEV comparisons and diagnostic plots.
 
 ```
@@ -33,7 +33,7 @@ Clone the repository:
 ```
 bash
 git clone https://github.com/Fatma-Eltelwany/nucleus-sev-autoencoder.git
-cd yourrepo
+cd nucleus-sev-autoencoder
 pip install -r requirements.txt
 ```
 ## Example Usage
