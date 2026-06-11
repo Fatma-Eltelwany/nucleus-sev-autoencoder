@@ -7,6 +7,7 @@ Unsupervised clean pulse selection for Standard Event (SEV) construction for cry
 ```text
 .
 ├── README.md
+├── requirements.txt
 ├── find_linear_range.py
 ├── pulse_selection_autoencoder.py
 └── figures/
