@@ -23,15 +23,12 @@ Unsupervised clean pulse selection for Standard Event (SEV) construction for cry
 * `requirements.txt` — All needed packages.
 * `figures/` — Example SEV comparisons and diagnostic plots.
 
-```
 
-```
 ## Installation
 
 Clone the repository:
 
 ```
-bash
 git clone https://github.com/Fatma-Eltelwany/nucleus-sev-autoencoder.git
 cd nucleus-sev-autoencoder
 pip install -r requirements.txt
