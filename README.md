@@ -1,8 +1,8 @@
 # nucleus-sev-autoencoder
 Unsupervised clean pulse selection for Standard Event (SEV) construction for cryogenic TES detectors using autoencoders.
 
-nucleus-sev-autoencoder/
-## Repository Structure
+## nucleus-sev-autoencoder/
+
 
 ```text
 .
@@ -24,6 +24,17 @@ nucleus-sev-autoencoder/
 * `figures/` — Example SEV comparisons and diagnostic plots.
 
 ```
+
+```
+## Installation
+
+Clone the repository:
+
+```
+bash
+git clone https://github.com/Fatma-Eltelwany/nucleus-sev-autoencoder.git
+cd yourrepo
+pip install -r requirements.txt
 ```
 ## Example Usage
 
